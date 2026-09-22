@@ -10,7 +10,7 @@
 
 <br><br>
 
-<!-- SOSYAL BUTONLAR VE SAYAC (YAN YANA) -->
+<!-- SOSYAL BUTONLAR VE SAYAC -->
 <p align="center">
   <a href="https://github.com/oxy4ff"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" height="50"></a>
   <a href="https://discord.gg/yamyamtr"><img src="https://img.shields.io/badge/DISCORD-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=111111" height="50"></a>
@@ -35,7 +35,7 @@
 
 <!-- TOP LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxy4ff&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="85%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxy4ff&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400" width="85%" alt="Top Languages">
 </div>
 
 <br>

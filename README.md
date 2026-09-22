@@ -19,20 +19,6 @@
 
 <br><br>
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxy4ff&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="85%" alt="GitHub Stats">
-</div>
-
-<br>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=55&section=header" width="85%">
-</div>
-
-<br>
-
 <!-- STREAK -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxy4ff&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="GitHub Streak">

@@ -33,20 +33,6 @@
 
 <br>
 
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxy4ff&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400" width="85%" alt="Top Languages">
-</div>
-
-<br>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=55&section=header" width="85%">
-</div>
-
-<br>
-
 <!-- STREAK -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxy4ff&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="GitHub Streak">
